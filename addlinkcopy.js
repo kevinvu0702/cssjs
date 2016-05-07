@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://giaiphapthuonghieu.vn'>http://giaiphapthuonghieu.vn"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://vpland.net/du-an-chi-tiet/5/76/can-ho-sky-dream-nguyen-xi-hung-thinh.html'>http://vpland.net/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
