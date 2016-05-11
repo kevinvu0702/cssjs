@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://vpland.net/du-an-chi-tiet/5/76/can-ho-sky-dream-nguyen-xi-hung-thinh.html' target='_blank'><img src='http://vpland.net/images/banners/1462244757_saigonmia_25_4.jpg' width='500px'/>Dự án sky dream nguyễn xí</a>. Căn hộ Sky Dream Bình Thạnh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://hungthinh-duan.com/' target='_blank'><img src='http://vpland.net/images/banners/1462244757_saigonmia_25_4.jpg' width='500px'/>Dự án căn hộ Hưng Thịnh</a>. Căn hộ dự án. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
